@@ -5,9 +5,9 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: Shower Room Concept for DECEIT
-datePublished: '2016-04-19T17:40:12.788Z'
-dateModified: '2016-04-19T17:39:39.520Z'
+description: 'Shower Room Concept for DECEIT '
+datePublished: '2016-04-19T18:18:15.299Z'
+dateModified: '2016-04-19T18:18:07.743Z'
 title: ''
 author: []
 authors: []
@@ -22,6 +22,5 @@ url: shower-room-concept-for-deceit/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ae99ce81-c447-4f79-8ebd-07d692c0211c.jpg)
-
 Shower Room Concept for DECEIT
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c248326f-2abc-4ed9-b9c3-3393da68d95c.jpg)
