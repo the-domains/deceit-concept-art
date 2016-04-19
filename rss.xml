@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[DECEIT CONCEPT ART]]></title>
         <description><![CDATA[DECEIT CONCEPT ART]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/deceit-concept-art/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 19 Apr 2016 17:41:00 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 19 Apr 2016 17:42:45 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/deceit-concept-art/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ef57f598-f304-4b0d-827b-3b2ebe59072a.jpg">]]></description>
+            <link>https://thegrid.ai/deceit-concept-art/20835605-8a6a-4f2c-9e78-d916f41a9ef8/index.html</link>
+            <guid isPermaLink="false">20835605-8a6a-4f2c-9e78-d916f41a9ef8</guid>
+            <pubDate>Tue, 19 Apr 2016 17:42:44 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ae99ce81-c447-4f79-8ebd-07d692c0211c.jpg">]]></description>
-            <link>undefinedshower-room-concept-for-deceit/index.html</link>
+            <link>https://thegrid.ai/deceit-concept-art/shower-room-concept-for-deceit/index.html</link>
             <guid isPermaLink="false">465b51be-219a-4c3d-82a2-4d05b61867f4</guid>
             <pubDate>Tue, 19 Apr 2016 17:40:12 GMT</pubDate>
         </item>
