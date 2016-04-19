@@ -1,0 +1,28 @@
+name: DECEIT CONCEPT ART
+favicon: null
+layout_spectrum: 0.9747188452165574
+typography_spectrum: 0.258342296583578
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.9814829165115952
+  lightness: 0.08028290257789195
+  saturation: 0.6551278126426041
+  rhythmicContrast: 0.8510021464899182
+purpose: []
